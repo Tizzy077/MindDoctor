@@ -42,7 +42,7 @@ header{
     padding: 10px;
     border: none;
     cursor: pointer;
-    display: none;
+    display: block;
 }
 
 .bar{
